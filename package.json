@@ -1,0 +1,15 @@
+{
+  "name": "random-mvc-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.16.1",
+    "node-fetch": "^2.7.0"
+  }
+}
