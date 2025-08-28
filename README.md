@@ -197,4 +197,14 @@ exports.deleteUser = async (req, res) => {
 - `DELETE /users/:id` - Delete a user
 
 ## Note
-- This project now uses MongoDB for persistent storage. For production, add more fields, validation, and error handling as needed. 
+- This project now uses MongoDB for persistent storage. For production, add more fields, validation, and error handling as needed.
+
+## Author
+
+**Himal Pandey**
+
+**Portfolio:** himalpandey.vercel.app
+
+**GitHub:** github.com/pandeyhimal
+
+**LinkedIn:** https://www.linkedin.com/in/himal-pandey-297988225/
